@@ -9,6 +9,11 @@ https://github.com/DexterInd/GoPiGo
 http://forbot.pl/blog/artykuly/programowanie/raspberry-pi-w-robotyce-amatorskiej-3-programowanie-id1274
 http://codeandlife.com/2015/03/25/raspberry-pi-2-vs-1-gpio-benchmark/
 http://raspberrypihobbyist.blogspot.com/2015/01/gpio-interrupts-using-wiringpi.html
+
+
+http://tordwessman.blogspot.se/2013/12/adafruit-pca9685-c-servo-controller.html
+https://www.raspberrypi.org/forums/viewtopic.php?t=29458&p=333855
+https://github.com/TeraHz/PCA9685
 #-------------------------------------------------
 
 QT       += core gui network  widgets axcontainer webkitwidgets webkit
