@@ -8,7 +8,7 @@ https://www.dexterindustries.com/GoPiGo/programming/python-programming-for-the-r
 https://github.com/DexterInd/GoPiGo
 http://forbot.pl/blog/artykuly/programowanie/raspberry-pi-w-robotyce-amatorskiej-3-programowanie-id1274
 http://codeandlife.com/2015/03/25/raspberry-pi-2-vs-1-gpio-benchmark/
-
+http://raspberrypihobbyist.blogspot.com/2015/01/gpio-interrupts-using-wiringpi.html
 #-------------------------------------------------
 
 QT       += core gui network  widgets axcontainer webkitwidgets webkit
