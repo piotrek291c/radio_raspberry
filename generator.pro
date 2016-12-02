@@ -14,6 +14,7 @@ http://raspberrypihobbyist.blogspot.com/2015/01/gpio-interrupts-using-wiringpi.h
 http://tordwessman.blogspot.se/2013/12/adafruit-pca9685-c-servo-controller.html
 https://www.raspberrypi.org/forums/viewtopic.php?t=29458&p=333855
 https://github.com/TeraHz/PCA9685
+https://ninedof.wordpress.com/2013/07/16/rpi-hc-sr04-ultrasonic-sensor-mini-project/
 #-------------------------------------------------
 
 QT       += core gui network  widgets axcontainer webkitwidgets webkit
