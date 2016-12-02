@@ -3,6 +3,12 @@
 # Project created by QtCreator 2016-10-26T10:07:00
 #    https://sites.google.com/site/raspberryflightgear/4-qt-and-raspberry
 # http://stackoverflow.com/questions/1356328/console-input-with-qt-creator
+
+https://www.dexterindustries.com/GoPiGo/programming/python-programming-for-the-raspberry-pi-gopigo/
+https://github.com/DexterInd/GoPiGo
+http://forbot.pl/blog/artykuly/programowanie/raspberry-pi-w-robotyce-amatorskiej-3-programowanie-id1274
+http://codeandlife.com/2015/03/25/raspberry-pi-2-vs-1-gpio-benchmark/
+
 #-------------------------------------------------
 
 QT       += core gui network  widgets axcontainer webkitwidgets webkit
