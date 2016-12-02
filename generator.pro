@@ -1,7 +1,7 @@
 #-------------------------------------------------
 #
 # Project created by QtCreator 2016-10-26T10:07:00
-#
+#    https://sites.google.com/site/raspberryflightgear/4-qt-and-raspberry
 #-------------------------------------------------
 
 QT       += core gui network  widgets axcontainer webkitwidgets webkit
