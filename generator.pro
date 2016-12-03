@@ -16,6 +16,9 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=29458&p=333855
 https://github.com/TeraHz/PCA9685
 https://ninedof.wordpress.com/2013/07/16/rpi-hc-sr04-ultrasonic-sensor-mini-project/
 http://stackoverflow.com/questions/14676730/clock-gettime-on-raspberry-pi-with-c
+
+https://causeyourestuck.io/2016/04/15/hc-sr04-raspberry-pi-c/
+http://www.jarzebski.pl/arduino/czujniki-i-sensory/ultradzwiekowy-czujnik-odleglosci-hc-sr04.html
 #-------------------------------------------------
 
 QT       += core gui network  widgets axcontainer webkitwidgets webkit
