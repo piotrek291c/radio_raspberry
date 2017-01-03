@@ -6,7 +6,7 @@ mpc volume
 mpc pause
 amixer cset numid=1 -- 100%
 
-
+https://wiki.archlinux.org/index.php/Music_Player_Daemon
 http://cagewebdev.com/raspberry-pi-playing-internet-radio/
 https://learn.adafruit.com/raspberry-pi-radio-player-with-touchscreen/installing-the-music-player-daemon
 http://www.dronkert.net/rpi/radio.html
